@@ -107,11 +107,7 @@ A car wash project with the primary objective of efficiently and efficiently con
 
 ### Video Demonstration
 
-<video controls style="width: 100%;">
-  <source src="files/videos/pcb_demonstration.mp4" type="video/mp4">
-  <source src="files/videos/pcb_demonstration.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/6ffc5e24-8c43-4aa4-a156-bba197fbcea6
 
 ## Warning
 
