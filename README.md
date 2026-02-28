@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/e309d9ca-9c4e-4a33-9c9b-94e67e3d3a1e
 
 ## About
 
-A model car wash project with the primary objective of efficiently and efficiently controlling six DC motors simultaneously.
+A model car wash project with the primary objective of efficiently and effectively controlling six DC motors simultaneously.
 
 ## Software
 
