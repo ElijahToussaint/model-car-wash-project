@@ -84,7 +84,6 @@ A model car wash project with the primary objective of efficiently and efficient
     <td style="text-align: center;">4</td>
     <td><img src="files/images/aa_battery.jpg" alt="Italian Trulli" width="100"></td>
     <td>1.5V AA Battery</td>
-    <td>Used in parallel to power the printed circuit board.</td>
   </tr>
 </table>
 
